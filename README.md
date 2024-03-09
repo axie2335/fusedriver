@@ -1,5 +1,5 @@
 # fusedriver
-A lightweight, extensible filesystem driver interfaced with the Linux fuse.ko kernel module.
+A lightweight filesystem driver interfaced with the Linux user filesystem kernel module.
 
 # dependencies
 You may need to install the following packages:
